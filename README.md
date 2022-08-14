@@ -16,3 +16,5 @@
 [JTween](https://github.com/KurisuJuha/JTween)
 
 [JTransform](https://github.com/KurisuJuha/JTransform)
+
+[JData](https://github.com/KurisuJuha/JData)
