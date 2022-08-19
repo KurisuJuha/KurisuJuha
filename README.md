@@ -18,3 +18,5 @@
 [JTransform](https://github.com/KurisuJuha/JTransform)
 
 [JData](https://github.com/KurisuJuha/JData)
+
+[JUtil](https://github.com/KurisuJuha/JUtil)
